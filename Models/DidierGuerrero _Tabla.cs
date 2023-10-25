@@ -2,7 +2,7 @@
 
 namespace DidierGuerrero_Examen1P.Models
 {
-    public class DidierGuerrero_Tabla
+    public class DidierGuerrero__Tabla
     {
         [Required]
         public int dgEntradasDisponibles { get; set; }
