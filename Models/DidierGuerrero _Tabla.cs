@@ -4,6 +4,7 @@ namespace DidierGuerrero_Examen1P.Models
 {
     public class DidierGuerrero__Tabla
     {
+        public int ID { get; set; }
         [Required]
         public int dgEntradasDisponibles { get; set; }
         [Range(4.50, 8.50)]
